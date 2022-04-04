@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116977540478",
+    "project_id": "doanappcook",
+    "storage_bucket": "doanappcook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116977540478:android:c27ce43468a0cc4f96272f",
+        "android_client_info": {
+          "package_name": "com.example.doan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116977540478-kga5hr0ge20stbgc9iga8b29kl4c9qn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU1MQKarPNf6ITlyWlaPVkuE8WOxLRWuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116977540478-kga5hr0ge20stbgc9iga8b29kl4c9qn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/drawable/user.xml" value="0.115625" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/Layout_DangKy.xml" value="0.29372937293729373" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/activitity_calo.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_bmiactivity.xml" value="0.1" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_chudefrag.xml" value="0.1" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_comment.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_dang_nhap.xml" value="0.18" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_food_detail.xml" value="0.24406332453825857" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_food_list.xml" value="0.18" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_frament_chude_list.xml" value="0.11005434782608696" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_home.xml" value="0.292259083728278" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_home_frag.xml" value="0.1" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_main2.xml" value="0.33" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_search.xml" value="0.33" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_show_comment.xml" value="0.1" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_sign_in.xml" value="0.22" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_sign_up.xml" value="0.2" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/app_bar_home.xml" value="0.4400494437577256" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/content_home.xml" value="0.12" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/dialog.xml" value="0.1" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/fooditem.xml" value="0.25" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/fragment_bmi.xml" value="0.16" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/fragment_calo.xml" value="0.1" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/fragment_chude.xml" value="0.25" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/fragment_dangbai.xml" value="0.1" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/itemcommet.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/itemfood.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/layout_dangky.xml" value="0.25" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/layout_header_navigation.xml" value="0.33" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/layout_trangchu.xml" value="0.1" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/list_deatil.xml" value="0.5" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/list_item_chude.xml" value="0.21" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/menu.xml" value="0.1" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/menu_item.xml" value="0.1" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/nav_header_home.xml" value="0.1" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/trangchufrag.xml" value="0.1" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/layout/user.xml" value="0.1" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/menu/activity_main_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/menu/home.xml" value="0.22" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/DOAN/app/src/main/res/menu/menu_navigation.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
